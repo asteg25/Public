@@ -1,0 +1,38 @@
+mangazuki.me##DIV[id="rbox-c2m"][class="trc_rbox_div trc_rbox_border_elm"]
+mangazuki.me##DIV[class="ad c-ads custom-code wall-ads-control wall-ads-left"]
+readlightnovel.org##UL[class="ob-widget-items-container"]
+mangapanda.com##DIV[style="width:100%;height:768px;position:fixed;left:0;top:35px;overflow:hidden;visibility:hidden;z-index:0"]
+mangapanda.com##DIV[id="adrtop"]
+mangapanda.com##DIV[class="c4"]
+dubbedanime.net##IFRAME[src="/chat.html"]
+dubbedanime.net##DIV[class="side-chat d-none d-sm-block"]
+dubbedanime.net##DIV[class="alert alert-info text-center"]
+dubbedanime.net##DIV[class="vip-membership-banner"]
+yifysubtitles.com##DIV[class="trc_rbox_container"]
+yifysubtitles.com##DIV[class="row mt-3"][style="margin-top:20px;max-height:300px;"]
+yifysubtitles.com##DIV[id="taboola-below-article-thumbnails"]
+
+!Manga Filter
+##.headnav_center
+##.flex.justify-center.text-center.my-3
+##.flex.items-center.justify-center
+##.hidden-xs.hidden-sm > div.cborz-bordered
+##center > a > img[width="300"][height="250"]
+##.d-flex.justify-content-center.text-center.my-3
+##.my-5.text-center > center
+##center > h3 > a
+
+!Speedtest
+##div.top-placeholder
+##div.ad
+##div.eot-box-wrapper
+##div.eot-dd
+
+!GogoAnime
+##div.main_body > DIV > DIV > DIV.mgbox
+##div.main_body > DIV.anime_video_body > DIV > DIV > DIV > DIV.mgbox
+##div.main_body > DIV.anime_video_body > div[style="height:250px;overflow:hidden;"]
+
+www.pirate-bay.net##DIV[id="vpnModal"][class="fade nordvpn-popup nordvpn-popup--v12 in modal"]
+yts.mx##DIV[class="hohch"]
+yts.mx##DIV[class="antoic"]
